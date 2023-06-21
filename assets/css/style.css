@@ -315,6 +315,10 @@ section {
   background: #f5f8fd;
 }
 
+.white-bg {
+  background: #fff;
+}
+
 .section-title {
   padding-bottom: 30px;
 }
